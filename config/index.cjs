@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'f1a63c7b5bba57bee5647e60d4b06c63',
 
-  PROVINCE: '山西省',
-  CITY: '大同市',
+  PROVINCE: '山西',
+  CITY: '大同',
 
   USERS: [
     {
@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'opy3e6sdRbiSnULSStnJk82G48oc',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '5itK9x-NT3YGl-xf-cXiGm8lrD2c3WR0yOglskl5f3Y',
+      useTemplateId: 'mJjQjLx0CTacV3UEz6p2oGJTG_yF6gSH3qbADQaDnhY',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-10',
       festivals: [
@@ -51,7 +51,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '5itK9x-NT3YGl-xf-cXiGm8lrD2c3WR0yOglskl5f3Y',
+  CALLBACK_TEMPLATE_ID: 'mJjQjLx0CTacV3UEz6p2oGJTG_yF6gSH3qbADQaDnhY',
 
   CALLBACK_USERS: [
     {
