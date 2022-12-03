@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'f1a63c7b5bba57bee5647e60d4b06c63',
 
-  PROVINCE: '大同',
-  CITY: '平成区',
+  PROVINCE: '山西',
+  CITY: '大同',
 
   USERS: [
     {
@@ -55,7 +55,7 @@ const USER_CONFIG = {
 
   CALLBACK_USERS: [
     {
-      name: '自己',
+      name: '我',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'opy3e6vwLbuW5gqy0OFp1OEl3yaA',
     }
