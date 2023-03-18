@@ -28,17 +28,17 @@ const USER_CONFIG = {
       horoscopeDate: '05-10',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {
-          type: '*生日', name: '倩倩', year: '2003', date: '05-10',
-        },
+        //{
+         // type: '*生日', name: '倩倩', year: '2003', date: '05-10',
+       // },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
        // {
         //  type: '*生日', name: '小华', year: '2003', date: '08-28',
         //},
        // {
          // type: '节日', name: '恋爱纪念日', year: '2020', date: '11-04',
-        },
-      ],
+       // },
+     // ],
       // 我们在一起已经有xxxx天了的配置
       //customizedDateList: [
         // 在一起的日子
