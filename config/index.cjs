@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'opy3e6ntZMbSnFHUtiFb57nyqIog',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '6d6R_U0D2TD-KlmAM37S3a8r04oz6dG3W2-hN9WlJaM',
+      useTemplateId: 'vfdxVYhL3xKo02YVjx3EJDFtyTe2X-OBk6tAeLAe3m4',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '05-10',
       festivals: [
@@ -51,7 +51,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '6d6R_U0D2TD-KlmAM37S3a8r04oz6dG3W2-hN9WlJaM',
+  CALLBACK_TEMPLATE_ID: 'vfdxVYhL3xKo02YVjx3EJDFtyTe2X-OBk6tAeLAe3m4',
 
   CALLBACK_USERS: [
     {
@@ -62,27 +62,5 @@ const USER_CONFIG = {
   ],
 
 }
-*/
-module.exports = USER_CONFIG
-[info]
-#开始在一起的日期，格式参考 2022-06-24
-//start_date=2022-06-24
-#你女朋友所在的城市，写城市名或省份名或者所在的区  如 "云南"或者"昆明"或者"五华区"
-city1=连云港
-#你女朋友的家乡，写城市名或省份名或者所在的区  如 "云南"或者"昆明"或者"五华区"
-city2=忻州
-#你女朋友的生日，注意格式只写*月*日 如："05-10"
-birthday_lover=05-10
-#你的生日,注意格式只写*月*日 如："07-21"
-//birthday_my=05-04
-#以下为微信测试号的参数，在申请时会显示
-app_id=wx1bc760411a83f0b6
-app_secret=f1a63c7b5bba57bee5647e60d4b06c63
-#消息模板ID，在微信测试号中添加模板会自动生成ID
-template_id=6d6R_U0D2TD-KlmAM37S3a8r04oz6dG3W2-hN9WlJaM
-#接收消息的用户ID，让你的女朋友扫微信测试号的二维码，获取微信用户ID
-user_id=opy3e6ntZMbSnFHUtiFb57nyqIog
-#如有多个女朋友或者女朋友有多个微信，请使用以下格式,","隔开
-#user_id=opy3e6ntZMbSnFHUtiFb57nyqIog
 
 
